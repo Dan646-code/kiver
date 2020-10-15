@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Daniel/.idea/Daniel.iml" filepath="$PROJECT_DIR$/../Daniel/.idea/Daniel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kivoid/.idea/Kivoid.iml" filepath="$PROJECT_DIR$/../Kivoid/.idea/Kivoid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kivy nation.iml" filepath="$PROJECT_DIR$/.idea/Kivy nation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../The kivy nation/.idea/The kivy nation.iml" filepath="$PROJECT_DIR$/../The kivy nation/.idea/The kivy nation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
